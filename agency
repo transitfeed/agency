@@ -1,0 +1,4 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+22214_1,藤枝市,http://www.city.fujieda.shizuoka.jp,Asia/Tokyo,ja,054-631-4169,http://www.city.fujieda.shizuoka.jp/benri/bus/1450044400876.html
+22209_7,島田市,https://www.city.shimada.shizuoka.jp/bouhan/komibus.html,Asia/Tokyo,ja,0547-36-7144,https://www.city.shimada.shizuoka.jp/bouhan/untin.html
+22212-7,焼津市,http://www.city.yaizu.lg.jp/g06-002/kurashi/koutsuu/bus/index.html,Asia/Tokyo,ja,054-626-2166,http://www.city.yaizu.lg.jp/g06-002/koukyou_koutuu/bus/unchin.html
